@@ -1,1 +1,2 @@
-![image alt](https://github.com/thesmYo/Night-hunter/blob/313da82a76d574a6e09e1e4a35b1c1f8b2785274/BEAU%20_%20NIGHT%20HUNTER%20(2).jpg)
+![image alt](<img width="1487" height="764" alt="image" src="https://github.com/user-attachments/assets/8df0002c-613a-4a92-a06b-ea98dfe0806f" />
+)
